@@ -28,7 +28,6 @@ section {
   padding-left: 15px;
   background-color: #999999;
   border: 1px solid black;
-  border-width: thick;
 }
 
 .container > div {
@@ -41,7 +40,6 @@ section {
   text-align: center;
   border-left: 1px solid black;
   border-bottom: 1px solid black;
-  border-width: thick;
 }
 
 #title1 {
